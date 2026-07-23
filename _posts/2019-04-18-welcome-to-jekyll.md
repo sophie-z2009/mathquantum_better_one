@@ -8,9 +8,11 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Quantum computing has the potential to solve certain computational problems more efficiently than classical computers. This project explores how quantum algorithms and QIS concepts could be applied to challenges in voting systems, such as election security and fairness. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Modern elections involve complex math problems, such as determining election outcomes and optimizing district boundaries. Many of these tasks become computationally difficult as elections grow larger and more complex. This project investigates whether existing of future quantum algorithms could provide meaningful advantages over classical approaches while also examining the mathematical principles behind these methods.
+
+Rather than designing a new voting algorithm, this project will survey current research at the intersectino of quantum computing and social choice theory. It will explore how concepts such as quantum algorithms, cryptography, superposition, and linear algebra can contribute to future election systems and identify opportunities and limitations of applying QIS to democratic processes.
 
 Jekyll also offers powerful support for code snippets:
 
